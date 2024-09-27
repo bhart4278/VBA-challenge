@@ -13,3 +13,8 @@ Screenshots of Project outcomes below:
 <img width="1470" alt="Screenshot 2024-09-27 at 12 51 53 PM" src="https://github.com/user-attachments/assets/b64472ba-2403-40a2-bcc1-b60142743257">
 <img width="1470" alt="Screenshot 2024-09-27 at 12 52 01 PM" src="https://github.com/user-attachments/assets/ffbcc046-b3fa-4ac1-865c-ed5e9fc95c59">
 <img width="1470" alt="Screenshot 2024-09-27 at 12 52 13 PM" src="https://github.com/user-attachments/assets/2bf1849d-4868-4281-a929-fa38d9f28e0b">
+
+Screenshots of the VBA script:
+<img width="1470" alt="Screenshot 2024-09-27 at 12 53 21 PM" src="https://github.com/user-attachments/assets/4b9ba92a-0ef8-4af9-b6b5-ea4447717233">
+<img width="1470" alt="Screenshot 2024-09-27 at 12 53 31 PM" src="https://github.com/user-attachments/assets/e510142f-4715-48eb-881d-b51ac74dd791">
+<img width="1470" alt="Screenshot 2024-09-27 at 12 54 00 PM" src="https://github.com/user-attachments/assets/e8d21fdb-1db7-4315-b961-113b9c9eb900">
