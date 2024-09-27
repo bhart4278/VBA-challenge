@@ -6,6 +6,9 @@ o365devx, et al. “Colorindex Property (Excel Graph).” Microsoft Learn, 29 Ma
 
 Utilized the class's "Xpert Learning Assistant" AI tool to find out intial variables to set in code lines 3 through 12 as well as the initial loop in lines 17 & 18.
 
+Utilized the following github file as a guide for code and structure.
+Thaychansy. “VBA-Challenge/Tickerstock.Vbs at Main · Thaychansy/VBA-Challenge.” GitHub, github.com/thaychansy/vba-challenge/blob/main/tickerStock.vbs. Accessed 24 Sept. 2024. 
+
 Referenced various in-class activities as a guide for code and structure.
 
 Screenshots of Project outcomes below:
