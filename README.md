@@ -7,3 +7,6 @@ o365devx, et al. “Colorindex Property (Excel Graph).” Microsoft Learn, 29 Ma
 Utilized the class's "Xpert Learning Assistant" AI tool to find out intial variables to set in code lines 3 through 12 as well as the initial loop in lines 17 & 18.
 
 Referenced various in-class activities as a guide for code and structure.
+
+Screenshots of Project outcomes below:
+<img width="1470" alt="Screenshot 2024-09-27 at 12 51 24 PM" src="https://github.com/user-attachments/assets/385d4d9e-5ea6-4883-a325-be58492d712b">
